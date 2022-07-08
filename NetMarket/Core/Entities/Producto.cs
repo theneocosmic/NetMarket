@@ -2,6 +2,7 @@
 
 namespace Core.Entities
 {
+    //Test
     public class Producto : ClaseBase
     {
         public string Nombre { get; set; }
